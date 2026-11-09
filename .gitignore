@@ -1,0 +1,5 @@
+node_modules
+dist
+public/api/uploads/*
+!public/api/uploads/.htaccess
+!public/api/uploads/index.html

@@ -1,0 +1,5 @@
+Options -Indexes
+# Berkas unggahan tidak boleh dijalankan sebagai script
+<FilesMatch "\.(php|phtml|php3|php5|phar)$">
+  Require all denied
+</FilesMatch>

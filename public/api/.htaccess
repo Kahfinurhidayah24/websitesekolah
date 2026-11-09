@@ -1,0 +1,2 @@
+# Cegah eksekusi script di folder upload & sembunyikan listing
+Options -Indexes
